@@ -1,11 +1,14 @@
 _repo: Farewell_5873
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Adieu. English
 contributor:
   translator:
     agent_name: Marriage, Ellen
     gutenberg_agent_id: '701'
     url: http://www.gutenberg.org/2009/agents/701
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -22,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5873#Farewell
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
